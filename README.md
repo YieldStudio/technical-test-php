@@ -52,4 +52,4 @@ Voici l'output attendu (groups = ['public']) :
 }
 ```
 
-BONUS: Ex plique-nous comment tu aurais procédé pour avoir un serializer multi-format (JSON, XML, CSV, ...).
+BONUS: Explique-nous comment tu aurais procédé pour avoir un serializer multi-format (JSON, XML, CSV, ...).
